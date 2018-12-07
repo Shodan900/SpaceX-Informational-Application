@@ -7,3 +7,7 @@ Todo:
 - Build Universal UI that can be shared between members
 - Make .txt docs with all information we want to put on the interface
 - Learn how to 3D model lol
+
+
+use scenekit
+https://developer.apple.com/documentation/scenekit
