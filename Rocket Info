@@ -1,7 +1,8 @@
-Space X notes-Rockets
-Made by Josh Head
+(UPDATED)Space X notes-Rockets
+By: Josh Head
 
 Starship(BFR)———————————
+Organization: SpaceX
 Unit Cost: 5 Billion
 Height:118Meters(387 Feet)
 Diameter 9 Meter (30Feet)
@@ -28,6 +29,7 @@ Thrust: 3,100,000 lbf
  
 
 Falcon 9———————————
+Organization: SpaceX
 Unit Cost: 90 Million
 Height:70 meters(230 Feet)
 Diameter: 3.7 meters
@@ -46,6 +48,7 @@ Engines: Ft:1 Merlin 1D Vacuum+,V1.1: 1 Merlin 1D Vacuum, V1.0 1 Merlin 1C Vacuu
 Thrust: FT: 210,000lbf,V1.1:180,000lbf,V1.0:139,000lbf 
 
 Falcon 1——————————
+Organization: SpaceX
 Unit Cost: 90 Million
 Height: 21.1 meters(68 feet)
 Diameter: 1.7 meters (5.5 feet)
@@ -64,7 +67,8 @@ Engines: 1 Kestrel
 Thrust: 7,000lbf 
 
 Falcon heavy————————
-Unit Cost: 90Million, 150million (Expendable)
+Organization: SpaceX
+Unit Cost: 90 Million, 150 million (Expendable)
 Height: 70 meters (230 feet)
 Diameter: 3.66 meters (12 feet)
 Mass: 1,420,788kg
@@ -82,6 +86,7 @@ Second Stage:
 Thrust: 210,000lbf
 
 Dragon Capsule—————————
+Organization: SpaceX
 Role: Iss Logistics
 Crew: None
 Launch Vehicle: Falcon 9(v1.0,1.1,Full Thrust)
@@ -91,3 +96,24 @@ Mass: 4,200kg
 Payload(To Space):6,000kg
 Payload(To Earth):3,500kg
 Successes: 2/2
+
+Atlas V—————————————
+Organization: NASA
+Unit Cost: 109 Million
+Height: 53.8 meters (191 feet)
+Diameter: 3.81 meters (12.5 feet)
+Mass: 334,500kg
+Launch Site Location: Cape Canaveral SLC-41,Vandenbug SLC-3E
+Status: Active
+Stages: 2
+Successes: 78/79
+
+First Stage: 
+Engines: 1 RD-180
+Thrust: 860,000lbf, 933,000lbf
+
+Second Stage: 
+Engines: 1 RL10A or 1 RL10C
+Thrust: 22,300 lbf
+
+END------------------------------------------------------------------------------------------------------------
